@@ -4,4 +4,6 @@
 
 # Informações complementares: 
 
-- No texto 'SEU TOKEN' pegue o tokem gerada no seu discord 
+- No texto 'SEU TOKEN' pegue o tokem gerada no seu discord
+
+- Peguei imagens aleatórias na internet
